@@ -1,0 +1,4 @@
+id,month,category,amount,type,notes
+f1,2026-01,Revenue Received,28000,Income,Client retainer
+f2,2026-01,Payroll,14500,Expense,January payroll
+f3,2026-02,Software,3200,Expense,Cloud and SaaS tools
